@@ -20,7 +20,7 @@ An AI-powered medical chatbot built with Streamlit that provides health advice, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/medical-chatbot.git
+   git clone https://github.com/Bhuvanesh2209/MediBot
    cd medical-chatbot
 Create and activate a virtual environment:
 
